@@ -1,3 +1,3 @@
 function joinNow() {
-  alert("Welcome to Akaal Ki Fauj 🚀");
+    alert("Welcome to Akaal Ki Fauj 🚀");
 }
